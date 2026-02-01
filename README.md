@@ -66,15 +66,8 @@ npx hardhat test
 Ajoute tes captures ici :
 - `docs/screenshots/`
 
-Exemple de tableau (remplace les noms de fichiers) :
-
 | Ecran | Apercu |
 | --- | --- |
 | Accueil | ![Accueil](docs/screenshots/Accueil.png) |
 | Propositions | ![Propositions](docs/screenshots/Proposals.png) |
 
-## Ce que tu peux dire aux recruteurs
-- DAO minimaliste mais complete (proposer, voter, executer)
-- Regles on-chain claires (owner, deadline, anti double vote)
-- Frontend connecte a MetaMask et au contrat
-- UX pensee pour le dev local (fast-forward)
